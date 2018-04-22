@@ -16,23 +16,23 @@ PyQt로도 멋지고 예쁜 소프트웨어를 만들 수 있습니다.
 
 - button 1
 
-<img src='button1.png'></img>
+<img src='button1.PNG'></img>
 
 - button 1 활성화
 
-<img src='button1_activated.png'></img>
+<img src='button1_activated.PNG'></img>
 
 - button 2
 
-<img src='button2.png'></img>
+<img src='button2.PNG'></img>
 
 - button 2 활성화
 
-<img src='button2_activated.png'></img>
+<img src='button2_activated.PNG'></img>
 
 
 ### 스크롤바
 
  - 스크롤바 1
 
- <img src='hvscrollbar1.png'></img>
+ <img src='hvscrollbar1.PNG'></img>
